@@ -1,6 +1,9 @@
 **[📚 Read more on the website!](https://1brc.dev/)**
 
-Your mission, should you choose to accept it, is to write a program that retrieves temperature measurement values from a text file and calculates the min, mean, and max temperature per weather station. There's just one caveat: the file has 1,000,000,000 rows! That's more than 10 GB of data! 😱
+Your mission, should you choose to accept it, is to write a program that
+retrieves temperature measurement values from a text file and calculates the
+min, mean, and max temperature per weather station. There's just one caveat: the
+file has 1,000,000,000 rows! That's more than 10 GB of data! 😱
 
 The text file has a simple structure with one measurement value per row:
 
@@ -14,7 +17,10 @@ Cracow;12.6
 ... etc. ...
 ```
 
-The program should print out the min, mean, and max values per station, alphabetically ordered. The format that is expected varies slightly from language to language, but the following example shows the expected output for the first three stations:
+The program should print out the min, mean, and max values per station,
+alphabetically ordered. The format that is expected varies slightly from
+language to language, but the following example shows the expected output for
+the first three stations:
 
 ```
 Hamburg;12.0;23.1;34.2
@@ -22,7 +28,8 @@ Bulawayo;8.9;22.1;35.2
 Palembang;38.8;39.9;41.0
 ```
 
-Oh, and this input.txt is different for each submission since it's generated on-demand. So no hard-coding the results! 😉
+Oh, and this `input.txt` is different for each submission since it's generated
+on-demand. So no hard-coding the results! 😉
 
 Choose from one of the languages below to get started! 🚀 \
 <sub>Don't see your favorite language listed? [Open an Issue to add it!](https://github.com/1brc/.github/issues/new)</sub>
