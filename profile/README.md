@@ -43,3 +43,4 @@ Choose from one of the languages below to get started! 🚀 \
 [<img alt="JavaScript" align=left width=70 src="https://github.com/1brc/.github/assets/61068799/08623640-bf9f-43b4-a77e-24ecaca1d111">](https://github.com/Edgar-P-yan/1brc-nodejs-bun#submitting)
 [<img alt="Rust" align=left width=70 src="https://github.com/1brc/.github/assets/61068799/d3db61f7-abab-4d51-a39b-3561d6743bef">](https://github.com/tumdum/1brc#submitting)
 [<img alt="Zig" align=left width=70 src="https://github.com/1brc/.github/assets/61068799/6a3e7ee5-25e7-4e50-86bf-4ba0ab68d7df">](https://github.com/candrewlee14/1brc-zig#submitting)
+[<img alt="PHP" align=left width=80 src="https://github.com/1brc/.github/assets/14161194/a311e26f-52d8-4ad5-adbe-d9623c8c8903">](https://github.com/realFlowControl/1brc)
