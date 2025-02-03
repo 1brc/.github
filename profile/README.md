@@ -1,3 +1,10 @@
+![banner](https://github.com/user-attachments/assets/aecc8ac9-1c70-4cdb-b97d-6e7ee513ba99)
+
+This project didn't take off as the central hub for the 1brc-related community. Instead, it's decentralized across hundreds of repositories! 🤩 \
+Visit [the original repository's Discussions tab](https://github.com/gunnarmorling/1brc/discussions) or search [the `1brc` GitHub topic](https://github.com/topics/1brc) to get involved!
+
+---
+
 **[📚 Read more on the website!](https://1brc.dev/)**
 
 Your mission, should you choose to accept it, is to write a program that
